@@ -98,7 +98,6 @@ figure img {
     max-width: 160px;
     height: auto;
     width: auto;
-    border: 2px solid blue;
     border-radius: 8px;
 }
 figure figcaption {
